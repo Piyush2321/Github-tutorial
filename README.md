@@ -1,5 +1,5 @@
 # Github-tutorial
 Practicing git and github basics.
 
-Author - Piyush Sharma
+Author - Piyush PlusUltra
 
